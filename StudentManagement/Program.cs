@@ -35,11 +35,12 @@ namespace StudentManagement
                 if (subject.Teacher.Name == "Mr.Algebra")
                 {
                     Console.WriteLine($"{subject.Name} (Code: {subject.SubjectCode})");
+                    Console.WriteLine("------------------------------");
                 }
             }
 
             // Display students in a class 8B
-            Console.WriteLine("\nStudents in Class 8B:");
+            Console.WriteLine("Students in Class 8B:");
             foreach (var student in schoolDataManager.Students)
             {
                 if (student.ClassSection == "8B")
@@ -55,11 +56,12 @@ namespace StudentManagement
                 if (subject.Teacher.Name == "Mr.Physics")
                 {
                     Console.WriteLine($"{subject.Name} (Code: {subject.SubjectCode})");
+                    Console.WriteLine("------------------------------");
                 }
             }
 
             // Display students in a class 8C
-            Console.WriteLine("\nStudents in Class 8C:");
+            Console.WriteLine("Students in Class 8C:");
             foreach (var student in schoolDataManager.Students)
             {
                 if (student.ClassSection == "8C")
@@ -75,6 +77,7 @@ namespace StudentManagement
                 if (subject.Teacher.Name == "Mrs.Biology")
                 {
                     Console.WriteLine($"{subject.Name} (Code: {subject.SubjectCode})");
+                    Console.WriteLine("------------------------------");
                 }
             }
 
