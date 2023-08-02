@@ -18,7 +18,7 @@ namespace StudentManagement
             };
             schoolDataManager.Students.Add(student1);
 
-            // Display students in a class
+            // Display students in a class 8A
             Console.WriteLine("Students in Class 8A:");
             foreach (var student in schoolDataManager.Students)
             {
@@ -33,6 +33,46 @@ namespace StudentManagement
             foreach (var subject in schoolDataManager.Subjects)
             {
                 if (subject.Teacher.Name == "Mr.Algebra")
+                {
+                    Console.WriteLine($"{subject.Name} (Code: {subject.SubjectCode})");
+                }
+            }
+
+            // Display students in a class 8B
+            Console.WriteLine("\nStudents in Class 8B:");
+            foreach (var student in schoolDataManager.Students)
+            {
+                if (student.ClassSection == "8B")
+                {
+                    Console.WriteLine(student.Name);
+                }
+            }
+
+            // Display subjects taught by a teacher
+            Console.WriteLine("\nSubjects taught by Mr.Physics:");
+            foreach (var subject in schoolDataManager.Subjects)
+            {
+                if (subject.Teacher.Name == "Mr.Physics")
+                {
+                    Console.WriteLine($"{subject.Name} (Code: {subject.SubjectCode})");
+                }
+            }
+
+            // Display students in a class 8C
+            Console.WriteLine("\nStudents in Class 8C:");
+            foreach (var student in schoolDataManager.Students)
+            {
+                if (student.ClassSection == "8C")
+                {
+                    Console.WriteLine(student.Name);
+                }
+            }
+
+            // Display subjects taught by a teacher
+            Console.WriteLine("\nSubjects taught by Mrs.Biology:");
+            foreach (var subject in schoolDataManager.Subjects)
+            {
+                if (subject.Teacher.Name == "Mrs.Biology")
                 {
                     Console.WriteLine($"{subject.Name} (Code: {subject.SubjectCode})");
                 }
