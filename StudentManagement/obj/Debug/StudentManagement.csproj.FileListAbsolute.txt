@@ -1,0 +1,16 @@
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.SuggestedBindingRedirects.cache
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\Training\MyOwn\Management system\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe.config
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\bin\Debug\StudentManagement.exe
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\bin\Debug\StudentManagement.pdb
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.AssemblyReference.cache
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.SuggestedBindingRedirects.cache
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\obj\Debug\StudentManagement.csproj.CoreCompileInputs.cache
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\obj\Debug\StudentManagement.exe
+D:\Training\Assisted Projects\Pratice Projects\PracticeProject4\StudentManagement\StudentManagement\obj\Debug\StudentManagement.pdb
